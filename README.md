@@ -225,7 +225,7 @@ The project presentation is available in the **Presentation** folder.
 
 **Neha Kumari Rajbhar**
 
-GitHub: https://github.com/Neha-Kumari-Rajbhar
-LinkedIn: https://www.linkedin.com/in/neha-kumari-rajbhar/
+- GitHub: https://github.com/Neha-Kumari-Rajbhar
+- LinkedIn: https://www.linkedin.com/in/neha-kumari-rajbhar/
 
 
